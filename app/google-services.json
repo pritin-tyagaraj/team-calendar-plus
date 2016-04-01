@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "team-calendar-plusplus",
+    "project_number": "99995840313",
+    "name": "team-calendar-plus"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99995840313:android:cab9e161ee95ec6c",
+        "client_id": "android:com.stuffthatworks.teamcalendar",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.stuffthatworks.teamcalendar",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99995840313-hvq0ip8ho4njcl4e9gil8vgjpk9marsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stuffthatworks.teamcalendar",
+            "certificate_hash": "F15D5AE2FA0F5F3AAC359CE92CFC7580B9FF2356"
+          }
+        },
+        {
+          "client_id": "99995840313-ak12l50prj748lm6js18d10dn9vs227d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
